@@ -1,0 +1,1 @@
+Desktop Java application that is aimed to make a booking for different flghts. This application lets you create your own account, manage it(change password, name, upload your own avatar) and book the flights for different dates. The following technologies have been used: Java SE, Object Oriented methodologies, JavaFX, JDBC, designing database tables using MySQL. 
